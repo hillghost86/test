@@ -1,1 +1,1 @@
-console ("测试打印代码")
+console.log ("测试打印代码")
